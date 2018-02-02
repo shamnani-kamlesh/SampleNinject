@@ -1,0 +1,16 @@
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\Core.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\Core.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\BLL.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\BO.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\Contracts.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\DAL.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\Ninject.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\BLL.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\BO.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\Contracts.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\DAL.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\bin\Debug\Ninject.xml
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\obj\Debug\Core.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Core\obj\Debug\Core.pdb

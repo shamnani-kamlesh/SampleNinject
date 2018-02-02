@@ -1,0 +1,10 @@
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\bin\Debug\DAL.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\bin\Debug\DAL.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\bin\Debug\BO.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\bin\Debug\Contracts.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\bin\Debug\BO.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\bin\Debug\Contracts.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\obj\Debug\DAL.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\DAL\obj\Debug\DAL.pdb

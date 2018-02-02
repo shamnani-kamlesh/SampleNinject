@@ -1,0 +1,8 @@
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Contracts\bin\Debug\Contracts.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Contracts\bin\Debug\Contracts.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Contracts\bin\Debug\BO.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Contracts\bin\Debug\BO.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Contracts\obj\Debug\Contracts.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\Contracts\obj\Debug\Contracts.pdb
