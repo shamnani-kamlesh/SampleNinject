@@ -1,0 +1,10 @@
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\bin\Debug\BLL.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\bin\Debug\BLL.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\bin\Debug\BO.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\bin\Debug\Contracts.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\bin\Debug\BO.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\bin\Debug\Contracts.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\obj\Debug\BLL.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BLL\obj\Debug\BLL.pdb

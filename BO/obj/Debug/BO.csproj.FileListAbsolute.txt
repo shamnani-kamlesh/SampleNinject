@@ -1,0 +1,6 @@
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BO\bin\Debug\BO.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BO\bin\Debug\BO.pdb
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BO\obj\Debug\BO.dll
+C:\Users\samna\OneDrive\Documents\Visual Studio 2017\Projects\SampleNinjectMediatR\BO\obj\Debug\BO.pdb
