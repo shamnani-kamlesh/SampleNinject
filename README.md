@@ -1,2 +1,2 @@
 # SampleNinject
-Simple n-tier arch with Ninject
+Simple n-layer arch with Ninject
